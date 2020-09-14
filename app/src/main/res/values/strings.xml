@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">enParadigmTask</string>
+
+    <string name="wind">Wind</string>
+    <string name="rain">Rain</string>
+    <string name="humidity">Humidity</string>
+    <string name="percentage">%</string>
+    <string name="speed">km/h</string>
+    <string name="degree">&#xb0;</string>
 </resources>
